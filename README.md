@@ -1,5 +1,8 @@
 # Sentiment Analysis on IMDB Dataset Using Simple RNN
 
+![Project Banner](https://github.com/user-attachments/assets/f0495765-35c9-4fdf-8811-35d6a6a901fd)
+
+
 This project implements a sentiment analysis model using a Simple Recurrent Neural Network (RNN) on the IMDB movie review dataset. The goal is to predict whether a given movie review is positive or negative. The project also includes a user-friendly Streamlit app for real-time sentiment analysis.
 
 ## Table of Contents
