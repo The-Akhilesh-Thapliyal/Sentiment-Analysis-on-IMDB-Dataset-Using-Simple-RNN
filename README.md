@@ -101,3 +101,13 @@ The Simple RNN model achieved high accuracy on both training and validation data
 
 ## Conclusion
 This project showcases the implementation of a sentiment analysis model using a Simple RNN. It highlights the importance of data preprocessing, model architecture tuning, and regularization techniques in developing effective deep learning models.
+
+
+## About Me
+
+Hello, I'm Akhilesh Thapliyal!
+## Contact
+
+- **Email:** akhilesh.thedev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/akhilesh-thapliyal
+- **GitHub:** https://github.com/The-Akhilesh-Thapliyal
